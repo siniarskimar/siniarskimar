@@ -10,5 +10,5 @@ does not work even if GitHub's markdown has link attributes enabled (supposedly)
 <img src="./cpp.svg" width="50"> | <img src="./javascript.svg" width="50"> | <img src="./lua-5.svg" width="50">
 
 ## Contact
-[Email :email:](siniarskimarcin21@gmail.com)
+[Email :email:](mailto:siniarskimarcin21@gmail.com)
 [<img src="https://reddit.com/favicon.ico">](https://www.reddit.com/user/BDPL)
