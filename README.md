@@ -1,5 +1,11 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=siniarskimar&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+**Some stuff about me**<br>
+Self-taught computer programmer with no professional experience *(yet)*. Dabbled in Java, then Webdev (HTML+CSS+JS) and settled on C++.<br>
+Currently having high hopes for [Zig](https://ziglang.org). 
 
-Currently, experimenting with [zen](https://github.com/siniarskimar/zen) - future code editor.
+Speaking of which:<br>
+[zen](https://github.com/siniarskimar/zen) - my future code editor.
 
-[random xkdc comic](https://c.xkcd.com/random/comic/)
+**Here are some websites you might enjoy:**<br>
+[random xkdc comic](https://c.xkcd.com/random/comic/)<br>
+[grugbrain dev](https://grugbrain.dev/)<br>
+[thebestmotherf-ingwebsite](https://thebestmotherfucking.website/)
