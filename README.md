@@ -6,7 +6,7 @@ Currently suffering through Technology Univerisy of Lodz as Computer Science stu
 
 **Contact**<br>
 [siniarskimar1@tutanota.com](mailto:siniarskimar1@tutanota.com)<br>
-shellx (Discord)
+shellx (Discord) - for non serious stuff
 
 
 **Here are some websites you might enjoy:**<br>
