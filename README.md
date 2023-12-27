@@ -1,9 +1,13 @@
 **Some stuff about me**<br>
-Self-taught computer programmer with no professional experience *(yet)*. Dabbled in Java, then Webdev (HTML+CSS+JS) and settled on C++.<br>
-Currently having high hopes for [Zig](https://ziglang.org). 
+Self-taught computer programmer with no professional experience *(yet)*. Dabbled in Java, then Webdev (HTML+CSS+JS), fell in love with C++ and [Zig](https://ziglang.org).<br>
+Currently suffering through Technology Univerisy of Lodz as Computer Science student.
 
-Speaking of which:<br>
-[zen](https://github.com/siniarskimar/zen) - my future code editor.
+[zen](https://github.com/siniarskimar/zen) - my code editor i am working on.
+
+**Contact**<br>
+[siniarskimar1@tutanota.com](mailto:siniarskimar1@tutanota.com)<br>
+shellx (Discord)
+
 
 **Here are some websites you might enjoy:**<br>
 [random xkdc comic](https://c.xkcd.com/random/comic/)<br>
