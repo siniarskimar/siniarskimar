@@ -4,10 +4,6 @@ Currently studying Computer Science course at university.
 
 I am open for job opportunities - contact me.
 
-**Current focus**<br>
-[momentum](https://github.com/siniarskimar/momentum) - calendar & productivity tool<br>
-... + many university projects
-
 **Contact**<br>
 [praca.siniarskimar@tuta.com](mailto:praca.siniarskimar@tuta.com)<br>
 
